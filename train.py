@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Beispiel Code und  Spielwiese
+Beispiel Code und Spielwiese
 
 """
 
